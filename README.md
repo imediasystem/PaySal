@@ -1,4 +1,4 @@
 Console App for calculating employee salaries and main logo project.
-<br>
-![PaySal](https://github.com/imediasystem/PaySal/assets/125789515/35d0207a-d316-4899-9294-d73462062088)
+
+![PaySal-200](https://github.com/user-attachments/assets/b101e5d8-c3b5-412c-9821-b63b63a95cba)
 
