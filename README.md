@@ -1,3 +1,5 @@
+![audit-4190944](https://github.com/user-attachments/assets/00fd531f-42c1-4c7d-9cbd-b997aa8ecde6)
+
 ## 🔥 Project Name - PAYSAL
 
 Design of a console application that calculates the total salary of employees in a logistics company. The salary will depend on the function the employee performs in the organisation. The division will include office workers dealing with documents, freight forwarders and drivers. The project also includes creating an application logo.
